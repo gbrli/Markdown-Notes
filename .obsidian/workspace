@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "37afed32bbd18bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8917beb3b5bde29",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/react.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2010ba5532abcda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "285ddccddb08f9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a604a6ed40a5aa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea4e357bde81d492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "font awes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66cb7a5e48f9e6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5f60cf8c2937f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a9074baf8f7d91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/react.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8917beb3b5bde29",
+  "lastOpenFiles": [
+    "React/react.md",
+    "JS/es6-rpg.md.md",
+    "JS/apis-async.md",
+    "JS/js.md",
+    "FE/css-animations.md.md",
+    "FE/css.md",
+    "FE/ui.md",
+    "React/react-redux.md.md",
+    "SQL/index.md.md",
+    "SQL/01-create.md"
+  ]
+}
