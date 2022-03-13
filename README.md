@@ -1,3 +1,3 @@
 # Markdown Notes
 
-These are my programming notes in Markdown from various online courses I took.
+These are my programming notes in Markdown from all the online courses I took.
